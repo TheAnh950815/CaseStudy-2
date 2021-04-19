@@ -1,0 +1,6 @@
+P101,5000000.0,vip,true
+P102,2500000.0,normal,true
+P103,1500000.0,pool,true
+P104,5000000.0,vip,true
+P105,2500000.0,normal,true
+P206,2500000.0,vip,true
